@@ -1,2 +1,27 @@
 # Bark
-Bark is the dApp and AI Agent Service for Woof Protocol (AI Agents on X, expandable automation)
+Bark is the dApp and AI Agent Service for Woof Protocol (AI Agents on X)
+
+```
+                            ;\ 
+                            |' \ 
+         _                  ; : ; 
+        / `-.              /: : | 
+       |  ,-.`-.          ,': : | 
+       \  :  `. `.       ,'-. : | 
+        \ ;    ;  `-.__,'    `-.| 
+         \ ;   ;  :::  ,::'`:.  `. 
+          \ `-. :  `    :.    `.  \ 
+           \   \    ,   ;   ,:    (\ 
+            \   :., :.    ,'o)): ` `-. 
+           ,/,' ;' ,::"'`.`---'   `.  `-._ 
+         ,/  :  ; '"      `;'          ,--`. 
+        ;/   :; ;             ,:'     (   ,:) 
+          ,.,:.    ; ,:.,  ,-._ `.     \""'/ 
+          '::'     `:'`  ,'(  \`._____.-'"' 
+             ;,   ;  `.  `. `._`-.  \\ 
+             ;:.  ;:       `-._`-.\  \`. 
+              '`:. :        |' `. `\  ) \ 
+  -woofXBT-      ` ;:       |    `--\__,' 
+                   '`      ,' 
+                        ,-' 
+```
